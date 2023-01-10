@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// DISTANCE CALCULATOR
 
 // WELCOME
 Console.WriteLine("WELCOME TO THE DISTANCE CALCULATOR!!!");
