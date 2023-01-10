@@ -1,8 +1,8 @@
 ﻿// DISTANCE CALCULATOR
 
 // WELCOME
-Console.WriteLine("WELCOME TO THE DISTANCE CALCULATOR!!!");
 Console.Clear();
+Console.WriteLine("WELCOME TO THE DISTANCE CALCULATOR!!!");
 
 // INPUT
 Console.Write("Enter x1 value: ");
